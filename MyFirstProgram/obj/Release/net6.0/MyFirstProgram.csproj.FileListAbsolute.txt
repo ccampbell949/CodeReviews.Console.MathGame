@@ -1,0 +1,14 @@
+C:\repos\MyFirstProgram\MyFirstProgram\bin\Release\net6.0\MyFirstProgram.exe
+C:\repos\MyFirstProgram\MyFirstProgram\bin\Release\net6.0\MyFirstProgram.deps.json
+C:\repos\MyFirstProgram\MyFirstProgram\bin\Release\net6.0\MyFirstProgram.runtimeconfig.json
+C:\repos\MyFirstProgram\MyFirstProgram\bin\Release\net6.0\MyFirstProgram.dll
+C:\repos\MyFirstProgram\MyFirstProgram\bin\Release\net6.0\MyFirstProgram.pdb
+C:\repos\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.AssemblyInfoInputs.cache
+C:\repos\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.AssemblyInfo.cs
+C:\repos\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\repos\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.dll
+C:\repos\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\refint\MyFirstProgram.dll
+C:\repos\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.pdb
+C:\repos\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\MyFirstProgram.genruntimeconfig.cache
+C:\repos\MyFirstProgram\MyFirstProgram\obj\Release\net6.0\ref\MyFirstProgram.dll

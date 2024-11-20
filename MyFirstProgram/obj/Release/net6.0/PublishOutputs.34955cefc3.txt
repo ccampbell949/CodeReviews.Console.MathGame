@@ -1,0 +1,5 @@
+C:\repos\FinishedProjects\MyFirstProgram\MyFirstProgram.exe
+C:\repos\FinishedProjects\MyFirstProgram\MyFirstProgram.dll
+C:\repos\FinishedProjects\MyFirstProgram\MyFirstProgram.deps.json
+C:\repos\FinishedProjects\MyFirstProgram\MyFirstProgram.runtimeconfig.json
+C:\repos\FinishedProjects\MyFirstProgram\MyFirstProgram.pdb
