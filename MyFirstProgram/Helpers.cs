@@ -41,7 +41,6 @@ namespace MyFirstProgram
         internal static void PrintGames(string message)
         {
             var gamesToPrint = games.Where(x => x.Type == GameType.Addition);
-            //var gamesToPrint = games.OrderByDescending(x => x.Date).Take(5).ToList();
             Console.Clear();
             Console.WriteLine(message);
             Console.WriteLine("------------------------");

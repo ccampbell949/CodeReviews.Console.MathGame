@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\MyFirstProgram\\MyFirstProgram\\MyFirstProgram.csproj": {}
+    "C:\\repos\\CodeReviews.Console.MathGame\\MyFirstProgram\\MyFirstProgram.csproj": {}
   },
   "projects": {
-    "C:\\repos\\MyFirstProgram\\MyFirstProgram\\MyFirstProgram.csproj": {
+    "C:\\repos\\CodeReviews.Console.MathGame\\MyFirstProgram\\MyFirstProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\MyFirstProgram\\MyFirstProgram\\MyFirstProgram.csproj",
+        "projectUniqueName": "C:\\repos\\CodeReviews.Console.MathGame\\MyFirstProgram\\MyFirstProgram.csproj",
         "projectName": "MyFirstProgram",
-        "projectPath": "C:\\repos\\MyFirstProgram\\MyFirstProgram\\MyFirstProgram.csproj",
+        "projectPath": "C:\\repos\\CodeReviews.Console.MathGame\\MyFirstProgram\\MyFirstProgram.csproj",
         "packagesPath": "C:\\Users\\connor.campbell\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\MyFirstProgram\\MyFirstProgram\\obj\\",
+        "outputPath": "C:\\repos\\CodeReviews.Console.MathGame\\MyFirstProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
