@@ -40,7 +40,6 @@ namespace MyFirstProgram
 
         internal static void PrintGames(string message)
         {
-            //var gamesToPrint = games.Where(x => x.Type == GameType.Addition);
             Console.Clear();
             Console.WriteLine(message);
             Console.WriteLine("------------------------");
