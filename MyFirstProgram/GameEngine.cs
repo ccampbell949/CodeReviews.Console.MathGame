@@ -30,23 +30,23 @@ namespace MyFirstProgram
                 {
                     Console.WriteLine("Correct! Press any key for the next question");
                     score++;
-                    Console.ReadLine();
+                    Console.ReadKey();
                 }
                 else
                 {
                     Console.WriteLine("Incorrect! Press any key for the next question");
-                    Console.ReadLine();
+                    Console.ReadKey();
                 }
 
                 if (i == 4)
                 {
-                    Console.WriteLine("Game Over!");
-                    Console.WriteLine($"Your score is {score}");
+                    Console.WriteLine("\nGame Over!");
+                    Console.WriteLine($"Your score is {score}. Press any key to return to main menu");
+                    Console.ReadKey();
+                    Helpers.AddToHistory(score, GameType.Addition);
 
                 }
             }
-
-            Helpers.AddToHistory(score, GameType.Addition);
         }
 
         internal void SubtractionGame(string message)
@@ -76,25 +76,23 @@ namespace MyFirstProgram
                 {
                     Console.WriteLine("Correct! Press any key for the next question");
                     score++;
-                    Console.ReadLine();
+                    Console.ReadKey();
                 }
                 else
                 {
                     Console.WriteLine("Incorrect! Press any key for the next question");
-                    Console.ReadLine();
+                    Console.ReadKey();
                 }
 
                 if (i == 4)
                 {
-                    Console.WriteLine("Game Over!");
+                    Console.WriteLine("\nGame Over!");
                     Console.WriteLine($"Your score is {score}. Press any key to return to main menu");
-                    Console.ReadLine();
+                    Console.ReadKey();
                     Helpers.AddToHistory(score, GameType.Subtraction);
 
                 }
             }
-
-            Helpers.AddToHistory(score, GameType.Subtraction);
         }
 
         internal void MultiplicationGame(string message)
@@ -123,23 +121,23 @@ namespace MyFirstProgram
                 {
                     Console.WriteLine("Correct! Press any key for the next question");
                     score++;
-                    Console.ReadLine();
+                    Console.ReadKey();
                 }
                 else
                 {
                     Console.WriteLine("Incorrect! Press any key for the next question");
-                    Console.ReadLine();
+                    Console.ReadKey();
                 }
 
                 if (i == 4)
                 {
-                    Console.WriteLine("Game Over!");
-                    Console.WriteLine($"Your score is {score}");
+                    Console.WriteLine("\nGame Over!");
+                    Console.WriteLine($"Your score is {score}. Press any key to return to main menu");
+                    Console.ReadKey();
+                    Helpers.AddToHistory(score, GameType.Multiplication);
 
                 }
             }
-
-            Helpers.AddToHistory(score, GameType.Multiplication);
         }
 
         internal void DivisionGame(string message)
@@ -163,23 +161,23 @@ namespace MyFirstProgram
                 {
                     Console.WriteLine("Correct! Press any key for the next question");
                     score++;
-                    Console.ReadLine();
+                    Console.ReadKey();
                 }
                 else
                 {
                     Console.WriteLine("Incorrect! Press any key for the next question");
-                    Console.ReadLine();
+                    Console.ReadKey();
                 }
 
                 if (i == 4)
                 {
-                    Console.WriteLine("Game Over!");
-                    Console.WriteLine($"Your score is {score}");
+                    Console.WriteLine("\nGame Over!");
+                    Console.WriteLine($"Your score is {score}. Press any key to return to main menu");
+                    Console.ReadKey();
+                    Helpers.AddToHistory(score, GameType.Division);
 
                 }
             }
-
-            Helpers.AddToHistory(score, GameType.Division);
         }
     }
 }

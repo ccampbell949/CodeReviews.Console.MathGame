@@ -40,17 +40,17 @@ namespace MyFirstProgram
 
         internal static void PrintGames(string message)
         {
-            var gamesToPrint = games.Where(x => x.Type == GameType.Addition);
+            //var gamesToPrint = games.Where(x => x.Type == GameType.Addition);
             Console.Clear();
             Console.WriteLine(message);
             Console.WriteLine("------------------------");
-            foreach (var game in gamesToPrint)
+            foreach (var game in games)
             {
                 Console.WriteLine($"{game.Date} - {game.Type}: {game.Score}pts");
             }
             Console.WriteLine("------------------------\n");
             Console.WriteLine("Press any key to return to main menu");
-            Console.ReadLine();
+            Console.ReadKey();
         }
 
         internal static void AddToHistory(int score, GameType gameType)
